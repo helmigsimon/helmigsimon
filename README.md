@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Simon 👋
+
+I work as a Senior Machine Learning Engineer at [Two](https://www.two.inc/) and am based in London.
+
+You can also find me on [LinkedIn](https://www.linkedin.com/in/simon-helmig-558b3b54/)
 
 <!--
 **helmigsimon/helmigsimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
