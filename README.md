@@ -1,6 +1,6 @@
 ### Hi there, I'm Simon 👋
 
-:house: I work as a Senior Machine Learning Engineer 🛠 at [Two](https://www.two.inc/) ✌️ and am based in London :uk:
+:house: I work as a Senior Machine Learning Engineer at [Two](https://www.two.inc/) ✌️ and am based in London :uk:
 
 :trophy: 2nd Place Winner as part of Team Two in the [ZenML](https://zenml.io/home) [Month of MLOps Competition](https://blog.zenml.io/mlops-competition-recap/) (Find our solution [here](https://github.com/two-inc/zenml-competition))
 
