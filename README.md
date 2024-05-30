@@ -1,4 +1,4 @@
-### Hi there, I'm Simon 👋
+### Hi, I'm Simon
 
 :house: I work as a Senior Machine Learning Engineer at [Two](https://www.two.inc/) ✌️ and am based in London :uk:
 
